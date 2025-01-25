@@ -60,7 +60,7 @@ You can view the interactive Power BI dashboard using the link below:\
 
 1. Clone the repository:
    ```bash
-   git clone <REPOSITORY_URL>
+   git clone <https://github.com/Par-zeus/Coffee_Sales_Data_Analysis.git>
    ```
 2. Open the Power BI `.pbix` file included in the repository.
 3. Analyze the dashboard and explore insights!
