@@ -1,8 +1,5 @@
 # ☕ Coffee Shop Sales Data Analysis 📊
 
-![Coffee Shop Sales Dashboard](<image.png>)
-
-
 ### 🚀 About This Project
 
 This project provides an in-depth **Coffee Sales Report** based on data acquired from an Excel file. Using **Power BI**, a dynamic and visually rich dashboard was created to uncover key insights into the sales trends, product performance, and store locations.
@@ -28,9 +25,9 @@ This project provides an in-depth **Coffee Sales Report** based on data acquired
 
 ### 🎨 Dashboard Preview
 
-Take a look at the **Coffee Shop Sales Dashboard** created in Power BI!\
+Take a look at the **Coffee Shop Sales Dashboard** created in Power BI!
 
-
+![Coffee Shop Sales Dashboard](<image.png>)
 ---
 
 ### 🔗 View the Dashboard
